@@ -8,7 +8,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## [Demo live](https://montasirrahman.github.io/landing-page-laravel/)
 
 ## About Laravel
 
